@@ -1,0 +1,54 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrapIcon.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/gitIcon.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascriptIcon.png"
+  },
+  {
+    "title": "Postgres-SQL",
+    "imageSrc": "skills/postgresqlIcon.png"
+  },
+  {
+    "title": "Rails",
+    "imageSrc": "skills/railsIcon.png"
+  },
+  
+  {
+    "title": "Ruby",
+    "imageSrc": "skills/rubyIcon.png"
+  },
+  
+  {
+    "title": "SASS",
+    "imageSrc": "skills/sassIcon.png"
+  },
+  
+  {
+    "title": "Trello",
+    "imageSrc": "skills/trelloIcon.png"
+  }
+
+]

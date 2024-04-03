@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Developer",
+    "organization": "Techtrum technology solutions",
+    "startDate": "Dec, 2022",
+    "endDate": "April, 2023",
+    "experiences": ["Worked on building wordpress website", "created custome themes"],
+    "imageSrc":"history/wordpress.png"
+  },
+  {
+    "role": "SEO Intern",
+    "organization": "NepNext private limited",
+    "startDate": "March, 2019",
+    "endDate": "June, 2019",
+    "experiences": ["Authored more than 10 blog post each day"]
+    
+  }
+]
