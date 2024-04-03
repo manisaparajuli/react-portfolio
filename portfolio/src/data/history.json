@@ -12,7 +12,8 @@
     "organization": "NepNext private limited",
     "startDate": "March, 2019",
     "endDate": "June, 2019",
-    "experiences": ["Authored more than 10 blog post each day"]
+    "experiences": ["Authored more than 10 blog post each day"],
+    "imageSrc":"history/google.png"
     
   }
 ]
