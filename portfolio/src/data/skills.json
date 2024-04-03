@@ -8,12 +8,20 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascriptIcon.png"
+  },
+  {
     "title": "React js",
     "imageSrc": "skills/react.png"
   },
   {
     "title": "Bootstrap",
     "imageSrc": "skills/bootstrapIcon.png"
+  },
+  {
+    "title": "SASS",
+    "imageSrc": "skills/sassIcon.png"
   },
   {
     "title": "Figma",
@@ -24,11 +32,7 @@
     "imageSrc": "skills/gitIcon.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascriptIcon.png"
-  },
-  {
-    "title": "Postgres-SQL",
+    "title": "Postgres",
     "imageSrc": "skills/postgresqlIcon.png"
   },
   {
@@ -41,10 +45,6 @@
     "imageSrc": "skills/rubyIcon.png"
   },
   
-  {
-    "title": "SASS",
-    "imageSrc": "skills/sassIcon.png"
-  },
   
   {
     "title": "Trello",
