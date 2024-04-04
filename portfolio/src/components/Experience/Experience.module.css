@@ -116,4 +116,10 @@
     width: 100%;
     gap: 9px;
   }
+  .skillImageContainer img{
+    display: none;
+  }
+  .skillImageContainer{
+    display: none;
+  }
 }
