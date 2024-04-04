@@ -11,6 +11,14 @@ export const Contact = () => {
         <img src={getImageUrl("contact/emailIcon.png")} alt="email icon" />
         <a href="mailto:manisaparajuli66@gmail.com">manisaparajuli66@gmail.com</a>
       </li>
+      <li>
+        <img src={getImageUrl("contact/githubIcon.png")} alt="github icon" />
+        <a href="https://github.com/manisaparajuli" target='_blank'>github/manisaparajuli</a>
+      </li>
+      <li>
+        <img src={getImageUrl("contact/linkedinIcon.png")} alt="linkedin icon" />
+        <a href="https://www.linkedin.com/in/manishaparajuli/" target='_blank'>LinkedIn.com/manisha</a>
+      </li>
     </ul>
   </footer>
 }
