@@ -7,7 +7,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Manisha</h1>
         <p className={styles.description}>I am a full-stack developer actively looking for new opportunity to collab. Reach out if you'd like to learn more</p>
-        <a href="mailto:myemail@gmail.com"  className={styles.contactBtn}>Contact Me</a>
+        <a href="mailto:manisaparajuli66@gmail.com"  className={styles.contactBtn}>Contact Me</a>
       </div>
       <img src={getImageUrl("hero/heroImage.png")} alt="Hero image of me" className={styles.heroImg}/>
         <div className={styles.topBlur}/>
