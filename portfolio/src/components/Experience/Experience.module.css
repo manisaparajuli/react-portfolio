@@ -3,8 +3,8 @@
 .container{
   color: var(--color-text);
   margin-top: 79px;
-  margin-left: 10px;
-  margin-right: 10%;
+  margin-left: 8%;
+  margin-right: 8%;
 
 }
 
@@ -43,8 +43,8 @@
   display:flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 86px;
+  height: 86px;
 }
 
 .skillImageContainer img{

@@ -11,15 +11,15 @@ export const About = () => {
       <ul className={styles.aboutItems}>
         <li className={styles.aboutItem}>
           <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
-          <div className={styles.aboutItemText}><h3>Fornt-end developer</h3>
-            <p>I am a front-end developer with experience in building user friendly sites.</p>
+          <div className={styles.aboutItemText}><h3>My highest qualification</h3>
+            <p>I have completed my master's degree in technology, with a specialization in software engineering.</p>
           </div>
         </li>
 
         <li className={styles.aboutItem}>
           <img src={getImageUrl("about/serverIcon.png")} alt="server icon" />
-          <div className={styles.aboutItemText}><h3>Back-end developer</h3>
-            <p>I am a back-end developer with experience in building fast and optimized sites.</p>
+          <div className={styles.aboutItemText}><h3>full-stack developer</h3>
+            <p>Although I enjoy front-end development more than anything, I am also proficient in backend development.</p>
           </div>
         </li>
         

@@ -27,14 +27,14 @@
 
 .aboutImage{
   width: 40%;
-  height: 700px;
+  height: 612px;
 }
 
 .aboutItems{
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 32px;
 }
 
 .aboutItem{
