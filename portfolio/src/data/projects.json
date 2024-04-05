@@ -3,7 +3,7 @@
     "title": "Why Why Waste",
     "imageSrc": "projects/project.png",
     "description": "This application is developed to reduce food insecurity among the common people, as well as to reduce food waste. The app allows eatery owners to list their leftover foods at the end of the day for a reduced price.",
-    "skills": ["Ruby on rails", "Postgres sql", "Mapbox", "CSS", "JavaScript Stimulus", "SCSS"],
+    "skills": ["Ruby on rails", "Mapbox","SCSS"],
     "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
     "source": "https://github.com/Giv-08/whywhywaste"
   },
@@ -11,7 +11,7 @@
     "title": "Cuddler Dog",
     "imageSrc": "projects/cuddler.png",
     "description": "This project replicates the Airbnb concept but replaces properties with dogs. By using this site, one will be able to rent a dog.",
-    "skills": ["Ruby on rails", "Postgres sql", "Mapbox", "CSS", "JavaScript Stimulus", "SCSS", "Bootstraps"],
+    "skills": ["Ruby on rails", "Postgres sql", "CSS", "Bootstraps"],
     "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
     "source": "https://github.com/Giv-08/cuddlerdog"
   },
