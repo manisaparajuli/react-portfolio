@@ -3,7 +3,7 @@
 .navbar {
   position: relative;
   display: flex;
-  align-item: center;
+  align-items: center;
   justify-content: space-between;
   padding-top: 24px;
   z-index: 2;
@@ -58,7 +58,7 @@
     right: 0;
     margin-right: 10%;
     flex-direction: column;
-    align-item: flex-end;
+    align-items: flex-end;
     gap: 11px;
     z-index: 3;
   }
