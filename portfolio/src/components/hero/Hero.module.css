@@ -31,21 +31,58 @@
 }
 
 .description{
-  font-size: 24px;
+  font-size: 18px;
   font-family: var(--font-roboto);
   margin-bottom: 12px;
 }
 
-.contactBtn{
-  text-decoration: none;
-  background-color: var(--color-primary);
-  color: var(--color-text);
-  border-radius: 100px;
+
+.contactBtn {
+  border-radius: 12px;
   font-size: 18px;
   font-weight: 400;
   padding: 8px 12px;
-  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: var(--color-primary);
+  color: #FFF;
+  transition: all 0.5s;
+  position: relative;
+  text-decoration:none;
 }
+.contactBtn::before {
+  border-radius: 12px;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-color: rgba(255,255,255,0.1);
+  transition: all 0.3s;
+}
+.contactBtn:hover::before {
+  opacity: 0 ;
+  transform: scale(0.5,0.5);
+}
+.contactBtn::after {
+  border-radius: 12px;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+  transition: all 0.3s;
+  border: 1px solid rgba(255,255,255,0.5);
+  transform: scale(1.2,1.2);
+}
+.contactBtn:hover::after {
+  opacity: 1;
+  transform: scale(1,1);
+}
+
 
 .heroImg{
   width: 40%;

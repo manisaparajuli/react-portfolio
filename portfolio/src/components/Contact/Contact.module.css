@@ -27,6 +27,7 @@
   align-items: flex-start;
   list-style: none;
   gap: 16px;
+  
 }
 
 .link{
@@ -39,8 +40,9 @@
   color: var(--color-text);
   text-direction: none;
   font-size: 18px;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 1.5px;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 830px){
