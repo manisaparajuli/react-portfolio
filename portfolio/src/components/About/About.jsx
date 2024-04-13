@@ -18,7 +18,7 @@ export const About = () => {
 
         <li className={styles.aboutItem}>
           <img src={getImageUrl("about/serverIcon.png")} alt="server icon" />
-          <div className={styles.aboutItemText}><h3>full-stack developer</h3>
+          <div className={styles.aboutItemText}><h3>Full-stack developer</h3>
             <p>Although I enjoy front-end development more than anything, I am also proficient in backend development.</p>
           </div>
         </li>

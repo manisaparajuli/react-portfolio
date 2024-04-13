@@ -13,17 +13,18 @@
 
 .image{
   margin-bottom: 26px;
+  width: 30%;
 }
 
 .title{
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 700;
 
 }
 .description{
   margin-top: 6px;
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 300;
 
 }
 
@@ -38,16 +39,16 @@
 
 }
 .skill{
-  font-size: 25px;
-  font-weight: 400;
+  font-size: 18px;
+  font-weight: 300;
   border-radius: 100px;
   background: var(--color-dark);
-  padding: 12px 22px;
+  padding: 8px 12px;
 }
 
 .links{
   width: 100%;
-  margin-top: 26px;
+  margin-top: 18px;
   margin-bottom: 12px;
 
 }
@@ -55,9 +56,9 @@
   text-decoration: none;
   margin-left: 12px;
   color: var(--color-text);
-  font-style: 30px;
-  font-weight: 600;
+  font-style: 18px;
+  font-weight: 400;
   border-radius: 100px;
   background: var(--color-primary);
-  padding: 12px 22px;
+  padding: 8px 12px;
 }

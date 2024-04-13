@@ -4,7 +4,7 @@
     "organization": "Techtrum technology solutions",
     "startDate": "Dec, 2022",
     "endDate": "April, 2023",
-    "experiences": ["Worked on building wordpress website", "created custome themes"],
+    "experiences": ["Worked on building wordpress website", "Created custome themes using JS", "Used Elementor plugin" ],
     "imageSrc":"history/wordpress.png"
   },
   {
@@ -12,7 +12,7 @@
     "organization": "NepNext private limited",
     "startDate": "March, 2019",
     "endDate": "June, 2019",
-    "experiences": ["Authored more than 10 blog post each day"],
+    "experiences": ["Authored more than 10 SEO optimised content each day", "keyword research" ],
     "imageSrc":"history/google.png"
     
   }

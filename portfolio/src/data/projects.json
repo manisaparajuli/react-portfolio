@@ -1,7 +1,15 @@
 [
   {
+    "title": "MetaCare hub",
+    "imageSrc": "projects/metacareScreen.png",
+    "description": "The platform aims to empower disabled individuals by providing a user-friendly interface and reliable assistance options. It incorporates features such as secure communication channels and customizable preferences to enhance the user experience and meet diverse needs.",
+    "skills": ["Wordpress", "Elementor"],
+    "demo": "https://metacarehub.com.au/",
+    "source": ""
+  },
+  {
     "title": "Why Why Waste",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/wwy.png",
     "description": "This application is developed to reduce food insecurity among the common people, as well as to reduce food waste. The app allows eatery owners to list their leftover foods at the end of the day for a reduced price.",
     "skills": ["Ruby on rails", "Mapbox","SCSS"],
     "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
@@ -14,13 +22,6 @@
     "skills": ["Ruby on rails", "Postgres sql", "CSS", "Bootstraps"],
     "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
     "source": "https://github.com/Giv-08/cuddlerdog"
-  },
-  {
-    "title": "News Website",
-    "imageSrc": "projects/project.png",
-    "description": "This website has organized news into different categories, which enables users to read news easily.",
-    "skills": ["React", "Bootstrap"],
-    "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
-    "source": "https://github.com/Giv-08/whywhywaste"
   }
+  
 ]
