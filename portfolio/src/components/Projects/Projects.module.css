@@ -1,19 +1,18 @@
-@import '../../vars.css';
+@import "../../vars.css";
 
-.container{
+.container {
   margin-top: 62px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
 }
-.title{
+.title {
   font-size: 28px;
   font-weight: 700;
   letter-spacing: 1.75px;
-  text-transform: uppercase;
-
+  text-transform: ;
 }
-.projects{
+.projects {
   margin-top: 18px;
   display: flex;
   flex-direction: column;
