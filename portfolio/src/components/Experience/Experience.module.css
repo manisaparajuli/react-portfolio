@@ -24,7 +24,6 @@
 }
 
 .skills {
-  /* width: 30%; */
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
@@ -35,7 +34,16 @@
   flex-direction: column;
   align-items: center;
   gap: 6px;
-  margin: 12px;
+  margin: 8px;
+  padding: 8px;
+  border-radius: 12px;
+  /* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4), 0px 7px 13px -3px rgba(0, 0, 0, 0.3),
+    0px -3px 0px rgba(0, 0, 0, 0.2) inset; */
+}
+.skill:hover{
+  transition: all 0.4s;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4), 0px 7px 13px -3px rgba(0, 0, 0, 0.3),
+    0px -3px 0px rgba(0, 0, 0, 0.2) inset;
 }
 
 .skillImageContainer {

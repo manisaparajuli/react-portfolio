@@ -11,7 +11,7 @@
     "title": "MetaCare hub",
     "imageSrc": "projects/metacareScreen.png",
     "description": "The platform aims to empower disabled individuals by providing a user-friendly interface and reliable assistance options. It incorporates features such as secure communication channels and customizable preferences to enhance the user experience and meet diverse needs.",
-    "skills": ["Wordpress", "Elementor", "JavaScript", "CSS"],
+    "skills": ["Wordpress", "Elementor", "JavaScript", "CSS", "HTML"],
     "demo": "https://metacarehub.com.au/",
     "source": ""
   },
