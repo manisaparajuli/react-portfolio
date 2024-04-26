@@ -1,5 +1,13 @@
 [
   {
+    "title": "The florist",
+    "imageSrc": "projects/florist.png",
+    "description": "This project is designed for the flower shop. It enables shop owners to sell their products as well as advertise their services and products.I developed this web application to put my React skills into practice",
+    "skills": ["React", "JavaScript", "CSS", "React-router", "fontAwesome"],
+    "demo": "https://florist-amber.vercel.app/home",
+    "source": "https://github.com/manisaparajuli/florist"
+  },
+  {
     "title": "MetaCare hub",
     "imageSrc": "projects/metacareScreen.png",
     "description": "The platform aims to empower disabled individuals by providing a user-friendly interface and reliable assistance options. It incorporates features such as secure communication channels and customizable preferences to enhance the user experience and meet diverse needs.",
@@ -14,14 +22,6 @@
     "skills": ["Ruby on rails","Mapbox","SCSS", "PostgreSQL"],
     "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
     "source": "https://github.com/Giv-08/whywhywaste"
-  },
-  {
-    "title": "Cuddler Dog",
-    "imageSrc": "projects/cuddler.png",
-    "description": "This project replicates the Airbnb concept but replaces properties with dogs. By using this site, one will be able to rent a dog.",
-    "skills": ["Ruby on rails", "Postgres sql", "CSS", "Bootstraps"],
-    "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
-    "source": "https://github.com/Giv-08/cuddlerdog"
   }
   
 ]
