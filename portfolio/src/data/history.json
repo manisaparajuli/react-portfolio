@@ -4,7 +4,7 @@
     "organization": "Techtrum technology solutions",
     "startDate": "Dec, 2022",
     "endDate": "April, 2023",
-    "experiences": ["Worked on building wordpress website", "Created custome themes using JS", "Used Elementor plugin" ],
+    "experiences": ["Developed a solid understanding of the WordPress platform, including its architecture and functionalities", "Acquired proficiency in HTML, CSS, and JS languages through practical application in WordPress development", "Learned how to manipulate and customize themes and plugins to achieve desired website layouts and functionalities", "Enhanced troubleshooting skills by resolving technical issues and bugs encountered in WordPress projects", "Learned how to coordinate with team members and stakeholders to ensure project success" ],
     "imageSrc":"history/wordpress.png"
   },
   {
@@ -12,7 +12,7 @@
     "organization": "NepNext private limited",
     "startDate": "March, 2019",
     "endDate": "June, 2019",
-    "experiences": ["Authored more than 10 SEO optimised content each day", "keyword research" ],
+    "experiences": ["Mastered on-page optimization techniques such as meta tags optimization, content optimization, and internal linking", "Gained expertise in off-page SEO strategies including link building, outreach, and relationship building", "Embraced a mindset of continuous learning to stay updated on emerging trends and technologies in the SEO field" ],
     "imageSrc":"history/google.png"
     
   }

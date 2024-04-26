@@ -5,7 +5,7 @@
   gap: 24px;
   flex-direction: row;
   border-radius: 10px;
-  background: linear-gradient(180deg, rgba(25, 4, 69, 0.4) 0%, #132a53b0 100%);
+  background: linear-gradient(180deg, rgb(181 87 230 / 25%) 0%, #8c35ff45 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 100%;
@@ -42,7 +42,7 @@
   font-size: 18px;
   font-weight: 300;
   border-radius: 100px;
-  background: var(--color-dark);
+  background: #b8b8ff;
   padding: 8px 12px;
 }
 
