@@ -8,6 +8,14 @@
     "source": "https://github.com/manisaparajuli/florist"
   },
   {
+    "title": "24/7 GYM",
+    "imageSrc": "projects/7gym.png",
+    "description": " The 24/7 gym website is a responsive static website made with Webflow. This website aims to reach its audience and provide relevant information about the 24/7 gym. It provides detailed information about the gym and its facilities.",
+    "skills": ["webflow"],
+    "demo": "https://manisas-top-notch-site.webflow.io/",
+    "source": "https://manisas-top-notch-site.webflow.io/"
+  },
+  {
     "title": "MetaCare hub",
     "imageSrc": "projects/metacareScreen.png",
     "description": "The platform aims to empower disabled individuals by providing a user-friendly interface and reliable assistance options. It incorporates features such as secure communication channels and customizable preferences to enhance the user experience and meet diverse needs.",
@@ -23,5 +31,6 @@
     "demo": "https://whywhywaste-ac5882126f70.herokuapp.com/",
     "source": "https://github.com/Giv-08/whywhywaste"
   }
+  
   
 ]

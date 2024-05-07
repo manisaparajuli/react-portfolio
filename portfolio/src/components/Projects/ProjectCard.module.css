@@ -15,6 +15,11 @@
   /* margin-bottom: 26px; */
   width: 26%;
 }
+@media (max-width: 500px){
+  .image{
+    display: none;
+  }
+}
 
 .title{
   font-size: 18px;
